@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone! I'M AdiWijaya 👋
 
 <!--
 **AdiWijaya-clm/AdiWijaya-clm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a student at vocational high school Sahabat Ilmu Karawang
+- 🌱 I’m currently learning **HTML And CSS**
+👌👌👌
+![HI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdsazR3eThrZ2tjajQ0djJhbDdwbWcxejR2MjRrdzM4aXlrd3d1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.gif)
